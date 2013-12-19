@@ -3,7 +3,7 @@ Contributors: Powie
 Donate link: http://www.powie.de
 Tags: rcmovie, shortcode, embed, video, player
 Requires at least: 2.5
-Tested up to: 3.1
+Tested up to: 3.8
 Stable tag: 0.9.0
 
 Embed videos from rcmovie.de using shortcode rcmovie
